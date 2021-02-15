@@ -1,0 +1,23 @@
+{
+  "name": "FDream Fivem Uyumlu Bot",
+  "version": "0.0.2",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "FDream",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.2.0",
+    "discord.js-minesweeper": "^1.0.5",
+    "jimp": "^0.14.0",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "node-superfetch": "^0.1.10",
+    "quick.db": "^7.1.1"
+  }
+}
